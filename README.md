@@ -7,8 +7,7 @@ The purpose of this project is to build an algorithm to predict the winner in al
 
 Files : `API_races`, `qualifying`, `weather`
 
-For my data mining I used two sources: the [Ergast F1](https://ergast.com/mrd/) data repository and the official 
-[Formula 1 website](https://www.formula1.com/), which contain information about all the championships and races from 
+For my data mining I used the official [Formula 1 website](https://www.formula1.com/), which contain information about all the championships and races from 
 1950 to 2019.
 Eventually I combined all the data about races, results, drivers and constructors standing positions, 
 qualifications and weather into a single dataframe.
